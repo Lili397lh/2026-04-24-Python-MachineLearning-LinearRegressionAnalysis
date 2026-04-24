@@ -1,6 +1,6 @@
 # Linear Regression App
 
-A desktop Python application for performing linear regression from a CSV file. It allows the user to load a dataset, view its contents, select the X and Y variables, apply an optional filter, and display both the scatter plot with the regression line and the main statistical results [file:1].
+A desktop Python application for performing linear regression from a CSV file. It allows the user to load a dataset, view its contents, select the X and Y variables, apply an optional filter, and display both the scatter plot with the regression line and the main statistical results.
 
 ## Technologies and Libraries
 
